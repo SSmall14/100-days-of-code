@@ -1,10 +1,10 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Sarah Small]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [10 May 2020].
 
 ## Log
-
+I think I am going to work on learning Spring Boot to create a web application. Using the SpringBoot framework mainly. Then I might attempt to link this to Squirkles.
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+Watched a video on SpringBoot and set up my software for it before implementing some basic functions.
 
 ### R1D2
